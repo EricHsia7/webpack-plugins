@@ -2,7 +2,7 @@
   "name": "@erichsia7/webpack-plugins",
   "version": "0.0.2",
   "private": false,
-  "description": "",
+  "description": "Webpack Plugins",
   "homepage": "https://github.com/EricHsia7/webpack-plugins#readme",
   "bugs": {
     "url": "https://github.com/erichsia7/webpack-plugins/issues"
@@ -11,15 +11,11 @@
     "type": "git",
     "url": "git+https://github.com/EricHsia7/webpack-plugins.git"
   },
-  "license": "ISC",
   "author": "EricHsia7",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "directories": {
     "lib": "lib"
-  },
-  "scripts": {
-    "test": "echo \"no test specified\" && exit 0"
   },
   "dependencies": {
     "@csstools/postcss-color-mix-function": "4.0.6",
