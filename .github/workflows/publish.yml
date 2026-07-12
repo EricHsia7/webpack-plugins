@@ -25,4 +25,4 @@ jobs:
           package-manager-cache: false
 
       - name: Publish to npm
-        run: npm publish # The npm CLI automatically detects OIDC and authenticates
+        run: npm publish --access public
