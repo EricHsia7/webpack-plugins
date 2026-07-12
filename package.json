@@ -17,6 +17,10 @@
   "directories": {
     "lib": "lib"
   },
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "dependencies": {
     "@csstools/postcss-color-mix-function": "4.0.6",
     "acorn": "8.17.0",
