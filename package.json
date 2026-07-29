@@ -1,6 +1,6 @@
 {
   "name": "@erichsia7/webpack-plugins",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "private": false,
   "description": "Webpack Plugins",
   "homepage": "https://github.com/EricHsia7/webpack-plugins#readme",
