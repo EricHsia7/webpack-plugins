@@ -28,6 +28,6 @@
     "postcss": "8.5.26",
     "webpack-cli": "7.2.3",
     "webpack-sources": "3.5.1",
-    "webpack": "5.110.3"
+    "webpack": "5.110.1"
   }
 }
