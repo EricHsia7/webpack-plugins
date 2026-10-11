@@ -1,6 +1,6 @@
 {
   "name": "@erichsia7/webpack-plugins",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "private": false,
   "description": "Webpack Plugins",
   "homepage": "https://github.com/EricHsia7/webpack-plugins#readme",
@@ -22,12 +22,12 @@
     "provenance": false
   },
   "dependencies": {
-    "acorn": "8.18.0",
+    "acorn": "8.19.0",
     "html-webpack-plugin": "5.6.8",
     "magic-string": "0.30.21",
-    "postcss": "8.5.26",
+    "postcss": "8.5.29",
     "webpack-cli": "7.2.3",
-    "webpack-sources": "3.5.1",
-    "webpack": "5.110.1"
+    "webpack-sources": "3.6.0",
+    "webpack": "5.111.1"
   }
 }
